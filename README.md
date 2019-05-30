@@ -1,4 +1,8 @@
 # MGS-Events
+Administra eventos para wordpress
+
+El plugin trae unos estilos basicos, permite el treemplazo y sobreescritura de la visualización, dentro de la carpeta del pluin se encuentro una sub carpeta *templates* esta contiene los distintos elemento, puede crear una carpeta *mgs-events* dentro de su theme y copiar en esta los elementos que desea sobre escribir, de esta forma podra personalizar la visualización.
+
 ## Shortcodes
 
 ### [mgs_events_map]
