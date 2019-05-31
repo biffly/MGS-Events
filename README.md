@@ -25,3 +25,9 @@ Muestra grilla de eventos por meses, semano o dia.
 
 #### Parametros:
 Por el momento esta opción no tienen parametros.
+
+### [mgs_events_search]
+Muestra Mustra buscador de eventos. Este shortcode debe estar colocado conjuntamente con el de listado o mapa.
+
+#### Parametros:
+Por el momento esta opción no tienen parametros.
